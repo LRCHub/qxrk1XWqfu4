@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "5 Years Time",
+  "base_artist": "Noah And The Whale",
+  "createdAt": "2026-02-14T16:10:37.651754Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "5 Foot 9",
+      "artist": "Tyler Hubbard",
+      "has_synced": true,
+      "path": "select/01_5_Foot_9_Tyler_Hubbard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "5 Foot 9 - Acoustic",
+      "artist": "Tyler Hubbard",
+      "has_synced": true,
+      "path": "select/02_5_Foot_9_-_Acoustic_Tyler_Hubbard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "5-1-5-0",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/03_5-1-5-0_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "9 to 5",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/04_9_to_5_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "9 to 5",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/05_9_to_5_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "9 to 5",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_9_to_5_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+      "artist": "Kelly Clarkson feat. Dolly Parton",
+      "has_synced": true,
+      "path": "select/07_9_to_5_(FROM_THE_STILL_WORKING_9_TO_5_DOCUMENTARY)_Kelly_Clarkson_feat._Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/08_9_to_5_(FROM_THE_STILL_WORKING_9_TO_5_DOCUMENTARY)_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hello Love (Buddha Remastered - February 5, 2001)",
+      "artist": "Hank Snow",
+      "has_synced": true,
+      "path": "select/09_Hello_Love_(Buddha_Remastered_-_February_5,_2001)_Hank_Snow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "5 O'Clock (feat. Boaz)",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/10_5_O'Clock_(feat._Boaz)_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "5 O'Clock (feat. Boaz) (prod.",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/11_5_O'Clock_(feat._Boaz)_(prod._Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "5 Star Remix",
+      "artist": "Yo Gotti feat. Gucci Mane, Trina & Nicki Minaj",
+      "has_synced": true,
+      "path": "select/12_5_Star_Remix_Yo_Gotti_feat._Gucci_Mane,_Trina_&_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "5 Star Bitch (Remix) Feat Yo Gotti and Gucci Mane",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/13_5_Star_Bitch_(Remix)_Feat_Yo_Gotti_and_Gucci_Mane_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "5 Sterne Deluxe",
+      "artist": "Fünf Sterne Deluxe",
+      "has_synced": false,
+      "path": "select/14_5_Sterne_Deluxe_Fünf_Sterne_Deluxe.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "5 år",
+      "artist": "Klovner I Kamp",
+      "has_synced": false,
+      "path": "select/15_5_år_Klovner_I_Kamp.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "5 Years Time",
+      "artist": "Noah And The Whale",
+      "has_synced": false,
+      "path": "select/pl_01_5_Years_Time_Noah_And_The_Whale.txt"
+    }
+  ]
+}
